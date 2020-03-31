@@ -1,1 +1,104 @@
+body {
+    font-size: 16px;
+    font-family: Comic Sans MS,sans-serif;
+    color: #1a1a1a;
+    background-color: #FFFFFF;
+}
+
+#header-nav {
+    background-color: #808080;
+    border-radius: 0;
+    border: 2px solid #000000;
+}
+
+#header-nav button {
+    background-color: #606060;
+    margin-top: 22px;
+    color: #FFFFFF;
+    
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #FFFFFF;
+    color:#FFFFFF;
+}
+
+.navbar-collapse {
+    border-top: 0;
+    
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 76px;
+    color:#FFFFFF;
+    padding-top: 0;
+}
+
+.navbar-brand h1 {
+    color: #000000;
+    font-family: Comic Sans MS, cursive;
+    font-weight: bolder;
+    font-size: 1.8em;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #000000;
+    
+}
+
+#nav-list {
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    
+}
+
+#nav-list a {
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+    border: 1px solid #000000;
+    
+}
+}
+
+#nav-list a:hover {
+    color: #202020;
+    background-color: #FEFEFE;
+
+    
+}
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #000000;
+    color: #000000;
+}
+
+
+
+#main-content {
+    width: 92%;
+    margin-bottom: 40px;
+}
+
+#main-content h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#main-section {
+    background-color: #808080;
+    box-shadow: 0 0 0 0;
+    padding: 30px;
+}
 
