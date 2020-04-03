@@ -7,3 +7,7 @@ The link to the solution output is https://souhardyasengupta.github.io/HTML_CSS_
 # MODULE 3 SOLUTION Deadline: Apr 6, 2020 12:29 PM IST
 The link to the solution output is 
 https://souhardyasengupta.github.io/HTML_CSS_AND_JAVASCRIPT_FOR_WEB_DEVELOPERS_BY_JOHNS_HOPKINS_UNIVERSITY/module3_solution/
+
+# MODULE 4 SOLUTION Deadline: Apr 13, 2020 12:29 PM IST
+The link to the solution output is 
+https://souhardyasengupta.github.io/HTML_CSS_AND_JAVASCRIPT_FOR_WEB_DEVELOPERS_BY_JOHNS_HOPKINS_UNIVERSITY/module4_solution/
